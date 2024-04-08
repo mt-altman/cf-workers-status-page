@@ -37,3 +37,10 @@ monitors:
     url: 'https://endpoint.xiaowangtech.com/xw-moonlit/moonlit/dashboard/calendar'
     method: GET
     expectStatus: 200
+
+  
+  - id: guangdong-chinatax-gov
+    name: The guangdong chinatax
+    url: 'https://dppt.guangdong.chinatax.gov.cn:8443/blue-invoice-makeout/invoice-makeout'
+    method: GET
+    expectStatus: 200
