@@ -41,6 +41,6 @@ monitors:
   
   - id: guangdong-chinatax-gov
     name: The guangdong chinatax
-    url: 'https://dppt.guangdong.chinatax.gov.cn:8443/blue-invoice-makeout/invoice-makeout'
+    url: 'https://dppt.guangdong.chinatax.gov.cn:8443/kpfw/fpcx/v1/fpcxByFpzs'
     method: GET
     expectStatus: 200
