@@ -50,3 +50,9 @@ monitors:
     url: 'https://metaso-free-api-mi8l.onrender.com'
     method: GET
     expectStatus: 200
+
+  - id: searxng
+    name: The searxng
+    url: 'https://searxng-c9r5.onrender.com'
+    method: GET
+    expectStatus: 200
