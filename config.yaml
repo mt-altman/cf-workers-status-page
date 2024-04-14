@@ -44,3 +44,9 @@ monitors:
     url: 'https://dppt.guangdong.chinatax.gov.cn:8443/kpfw/fpcx/v1/fpcxByFpzs'
     method: GET
     expectStatus: 200
+
+  - id: metaso-free-api
+    name: The metaso free api
+    url: 'https://metaso-free-api-mi8l.onrender.com'
+    method: GET
+    expectStatus: 200
