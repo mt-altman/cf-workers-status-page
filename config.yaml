@@ -56,3 +56,10 @@ monitors:
     url: 'https://searxng-c9r5.onrender.com'
     method: GET
     expectStatus: 200
+  
+
+  - id: coze-discord-proxy
+    name: The coze discord proxy
+    url: 'https://coze-discord-proxy-iknu.onrender.com'
+    method: GET
+    expectStatus: 200
