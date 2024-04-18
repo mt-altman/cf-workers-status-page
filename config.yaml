@@ -63,3 +63,13 @@ monitors:
     url: 'https://coze-discord-proxy-iknu.onrender.com'
     method: GET
     expectStatus: 200
+
+    
+  
+
+  - id: lobe-chat
+    name: The lobe chat
+    url: 'https://lobe-chat-7g5k.onrender.com'
+    method: GET
+    expectStatus: 200
+
