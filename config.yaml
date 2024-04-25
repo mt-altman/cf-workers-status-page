@@ -73,3 +73,10 @@ monitors:
     method: GET
     expectStatus: 200
 
+  
+
+  - id: one-api
+    name: The one api
+    url: 'https://one-api-latest-dq8m.onrender.com'
+    method: GET
+    expectStatus: 200
