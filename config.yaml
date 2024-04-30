@@ -80,3 +80,12 @@ monitors:
     url: 'https://one-api-latest-dq8m.onrender.com'
     method: GET
     expectStatus: 200
+
+    
+  
+
+  - id: ai-pro
+    name: The aipro
+    url: 'https://aipro2api.onrender.com'
+    method: GET
+    expectStatus: 200
