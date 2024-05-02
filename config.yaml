@@ -89,3 +89,11 @@ monitors:
     url: 'https://aipro2api.onrender.com'
     method: GET
     expectStatus: 200
+
+   
+
+  - id: popai
+    name: The popai
+    url: 'https://popai2api-latest.onrender.com'
+    method: GET
+    expectStatus: 200
