@@ -60,7 +60,7 @@ monitors:
 
   - id: coze-discord-proxy
     name: The coze discord proxy
-    url: 'https://coze-discord-proxy-iknu.onrender.com'
+    url: 'https://coze.hulu365.xyz'
     method: GET
     expectStatus: 200
 
