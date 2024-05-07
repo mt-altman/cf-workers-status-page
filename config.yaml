@@ -33,26 +33,26 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: home-xw-com
-    name: The xw home
+    name: xw home
     url: 'https://endpoint.xiaowangtech.com/xw-moonlit/moonlit/dashboard/calendar'
     method: GET
     expectStatus: 200
 
   
   - id: guangdong-chinatax-gov
-    name: The guangdong chinatax
+    name: guangdong chinatax
     url: 'https://dppt.guangdong.chinatax.gov.cn:8443/kpfw/fpcx/v1/fpcxByFpzs'
     method: GET
     expectStatus: 200
 
   - id: metaso-free-api
-    name: The metaso free api
+    name: metaso free api
     url: 'https://metaso-free-api-mi8l.onrender.com'
     method: GET
     expectStatus: 200
 
   - id: searxng
-    name: The searxng
+    name: searxng
     url: 'https://searxng-c9r5.onrender.com'
     method: GET
     expectStatus: 200
@@ -68,32 +68,32 @@ monitors:
   
 
   - id: lobe-chat
-    name: The lobe chat
-    url: 'https://lobe-chat-7g5k.onrender.com'
+    name: lobe chat
+    url: 'https://chat.hulu365.xyz'
     method: GET
     expectStatus: 200
 
   
 
   - id: one-api
-    name: The one api
-    url: 'https://one-api-latest-dq8m.onrender.com'
+    name: one api
+    url: 'https://oneapi.hulu365.xyz'
     method: GET
     expectStatus: 200
 
     
   
 
-  - id: ai-pro
-    name: The aipro
-    url: 'https://aipro2api.onrender.com'
-    method: GET
-    expectStatus: 200
+  # - id: ai-pro
+  #   name: The aipro
+  #   url: 'https://aipro2api.onrender.com'
+  #   method: GET
+  #   expectStatus: 200
 
    
 
   - id: popai
-    name: The popai
-    url: 'https://popai2api-latest.onrender.com'
+    name: popai
+    url: 'https://popai2.hulu365.xyz'
     method: GET
     expectStatus: 200
