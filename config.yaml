@@ -25,7 +25,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: FreeAskInternet
-    name: FreeAskInternet  onrender
+    name: FreeAskInternet
     description: 'FreeAskInternet'
     url: 'https://freeaskinternet-5pnf.onrender.com'
     method: GET
@@ -59,13 +59,11 @@ monitors:
   
 
   - id: coze-discord-proxy
-    name: The coze discord proxy
+    name: coze discord proxy
     url: 'https://coze.hulu365.xyz'
     method: GET
     expectStatus: 200
 
-    
-  
 
   - id: lobe-chat
     name: lobe chat
@@ -73,7 +71,6 @@ monitors:
     method: GET
     expectStatus: 200
 
-  
 
   - id: one-api
     name: one api
@@ -81,19 +78,20 @@ monitors:
     method: GET
     expectStatus: 200
 
-    
-  
-
   # - id: ai-pro
   #   name: The aipro
   #   url: 'https://aipro2api.onrender.com'
   #   method: GET
   #   expectStatus: 200
 
-   
-
   - id: popai
     name: popai
     url: 'https://popai2.hulu365.xyz'
+    method: GET
+    expectStatus: 200
+
+  - id: chat2api
+    name: chat2api
+    url: 'https://free.hulu365.xyz'
     method: GET
     expectStatus: 200
