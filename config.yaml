@@ -102,3 +102,16 @@ monitors:
     url: 'https://cozefree.hulu365.xyz'
     method: GET
     expectStatus: 200
+
+
+  - id: iptv
+    name: IPTV
+    url: 'https://iptv.hulu.us.kg'
+    method: GET
+    expectStatus: 200
+
+  - id:  midjourney
+    name: Midjourney
+    url: 'https://midjourney-latest.onrender.com'
+    method: GET
+    expectStatus: 200
