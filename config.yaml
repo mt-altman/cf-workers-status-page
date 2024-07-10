@@ -115,3 +115,10 @@ monitors:
     url: 'https://midjourney-latest.onrender.com'
     method: GET
     expectStatus: 200
+
+
+  - id:  claude
+    name: Claude
+    url: 'https://fuclaude.onrender.com'
+    method: GET
+    expectStatus: 200
