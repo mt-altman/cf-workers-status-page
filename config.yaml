@@ -116,9 +116,15 @@ monitors:
     method: GET
     expectStatus: 200
 
-
   - id:  claude
     name: Claude
     url: 'https://fuclaude.onrender.com'
+    method: GET
+    expectStatus: 200
+
+
+  - id:  midjourney2api
+    name: Midjourney2api
+    url: 'https://midjourney-proxy-2-6-3-1g8z.onrender.com'
     method: GET
     expectStatus: 200
